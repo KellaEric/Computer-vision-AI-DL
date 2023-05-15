@@ -1,0 +1,42 @@
+Area Threshold 1228.8
+Red line denotes Enering: 288
+Blue linedenotes Exiting: 192
+ID: 1 exit the area on Sat May 13 19:05:02 2023 Tracking system
+ID: 6 entering Bank Sat May 13 19:05:03 2023 Human Detection
+ID: 10 exit the area on Sat May 13 19:05:07 2023 Tracking system
+ID: 16 exit the area on Sat May 13 19:05:24 2023 Tracking system
+ID: 16 entering Bank Sat May 13 19:05:25 2023 Human Detection
+ID: 16 entering Bank Sat May 13 19:05:25 2023 Human Detection
+ID: 16 entering Bank Sat May 13 19:05:26 2023 Human Detection
+ID: 16 entering Bank Sat May 13 19:05:26 2023 Human Detection
+ID: 16 entering Bank Sat May 13 19:05:26 2023 Human Detection
+ID: 20 exit the area on Sat May 13 19:05:57 2023 Tracking system
+ID: 26 exit the area on Sat May 13 19:06:02 2023 Tracking system
+ID: 26 exit the area on Sat May 13 19:06:04 2023 Tracking system
+ID: 26 exit the area on Sat May 13 19:06:04 2023 Tracking system
+ID: 30 entering Bank Sat May 13 19:06:08 2023 Human Detection
+ID: 30 exit the area on Sat May 13 19:06:10 2023 Tracking system
+ID: 39 exit the area on Sat May 13 19:06:11 2023 Tracking system
+ID: 40 exit the area on Sat May 13 19:06:11 2023 Tracking system
+ID: 30 exit the area on Sat May 13 19:06:12 2023 Tracking system
+ID: 44 exit the area on Sat May 13 19:06:20 2023 Tracking system
+ID: 44 exit the area on Sat May 13 19:06:20 2023 Tracking system
+ID: 48 entering Bank Sat May 13 19:06:22 2023 Human Detection
+ID: 51 exit the area on Sat May 13 19:06:42 2023 Tracking system
+ID: 51 exit the area on Sat May 13 19:06:44 2023 Tracking system
+ID: 61 exit the area on Sat May 13 19:06:59 2023 Tracking system
+ID: 62 exit the area on Sat May 13 19:07:04 2023 Tracking system
+ID: 64 entering Bank Sat May 13 19:07:53 2023 Human Detection
+ID: 66 entering Bank Sat May 13 19:07:54 2023 Human Detection
+ID: 64 entering Bank Sat May 13 19:07:54 2023 Human Detection
+ID: 66 exit the area on Sat May 13 19:07:54 2023 Tracking system
+ID: 68 entering Bank Sat May 13 19:07:55 2023 Human Detection
+ID: 64 entering Bank Sat May 13 19:07:55 2023 Human Detection
+ID: 64 entering Bank Sat May 13 19:07:55 2023 Human Detection
+ID: 68 entering Bank Sat May 13 19:07:55 2023 Human Detection
+ID: 66 entering Bank Sat May 13 19:07:57 2023 Human Detection
+ID: 66 exit the area on Sat May 13 19:07:57 2023 Tracking system
+ID: 75 entering Bank Sat May 13 19:07:58 2023 Human Detection
+ID: 86 exit the area on Sat May 13 19:08:26 2023 Tracking system
+ID: 83 entering Bank Sat May 13 19:08:32 2023 Human Detection
+ID: 83 entering Bank Sat May 13 19:08:32 2023 Human Detection
